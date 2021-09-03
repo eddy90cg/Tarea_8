@@ -37,7 +37,8 @@
 
   ## Elementos R, L, C y el concepto de impedancia 
 
-    ![]()
+![MENTEFACTO 16](https://user-images.githubusercontent.com/84453557/131954119-5b6bbab1-7860-4d01-a91b-2fa73455b7db.png)
+
     
     
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
