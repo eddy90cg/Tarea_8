@@ -31,7 +31,7 @@
 
   ## Fundamentos de ca
 
-![](https://github.com/eddy90cg/Tarea_8/blob/main/Imágenes/Mentefacto-Capítulo%2015.png)
+    ![]()
     
 # IV. Conceptos fundamentales de ca.-
 
@@ -87,50 +87,71 @@
        
 ***27. Calcule ω en radianes por segundo para cada uno de los siguientes casos:***
 
-![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/27.png)
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/27.1.png)
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/27.2.png)
 
+***29. Determine las ecuaciones para las ondas seno con lo siguiente:***
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/29.1.png)
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/29.2.png)
 
+***31. Una onda seno tiene un voltaje pico a pico de 40 V y T = 50 ms. Determine su ecuación.***
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/31.png)
 
+***33. Dada i=47 sen 8260t mA, determine la corriente cuando t=0 s,80,410 y 1200 μs.***
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/33.png)
 
+***35. Escriba las ecuaciones para las formas de onda de la figura 15-82. Exprese la fase del ángulo en grados.***
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/35.1.png)
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/35.2.png)
 
+***37. Dada v=5 sen(ωt+45°). Si ω=20π rad/s, ¿qué valor tiene v cuando t=20,75 y 90 ms?***
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/37.1.png)
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/37.2.png)
 
+***39. Determine la ecuación para la forma de onda que se muestra en la figura 15-84.***
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/39.1.png)
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/39.2.png)
 
+***41. Dada v=30 sen(ωt-45°) donde ω=40π rad/s. Dibuje la forma de onda. ¿En qué momento v llega a 0 V? ¿En qué momento alcanza 23 V y -23 V?***
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/41.1.png)
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/41.2.png)
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/41.3.png)
 
+***43. Con la ayuda de fasores, dibuje las formas de onda para cada uno de los siguientes pares y determine la diferencia de fase y qué forma de onda está adelantada.***
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/43.1.png)
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/43.2.png)
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/43.3.png)
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/43.4.png)
 
+***45. Para las formas de onda de la figura 15-87, determine las diferencias de fase. ¿Qué forma de onda está adelantada?***
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/45.png)
 
+***47. ¿Cuál es el valor promedio para cada uno de los siguientes casos para un número entero de ciclo?***
 
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/47.png)
 
+***49. Calcule I_prom o V_prom para las formas de onda de la figura 15-88.***
 
-
-
-
-
-
-
-
-
-
-
-
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/49.png)
 
   # IV. Conceptos fundamentales de ca.-
   
