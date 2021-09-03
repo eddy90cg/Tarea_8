@@ -262,7 +262,7 @@ f. <img src="https://latex.codecogs.com/svg.latex?620^{\circ}" title="620^{\circ
 
 ![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/49.png)
 
-51. Para el circuito de la figura 15-90, e = 25 sen qt V y un periodo de T = 120 ms.
+***51. Para el circuito de la figura 15-90, e = 25 sen qt V y un periodo de T = 120 ms***
 
 ![image](https://user-images.githubusercontent.com/85126275/131603278-19233db5-d458-4b9a-8a89-ed0330d942eb.png)
 
@@ -301,13 +301,13 @@ d. Determine Vprom.
 Vprom =15V
 
 
-53. Utilice cálculo, para encontrar el valor promedio para la figura 15-91.
+***53. Utilice cálculo, para encontrar el valor promedio para la figura 15-91.***
 
 ![image](https://user-images.githubusercontent.com/85126275/131605775-1106df81-e6bb-4b87-939a-e2cb6c0e3729.png)
 
 **15-9 Valores efectivos (rms)**
 
-55. Determine los valores rms para cada uno de los siguientes casos:
+***55. Determine los valores rms para cada uno de los siguientes casos:***
 
 a. Una batería de 12 V 
  
@@ -326,7 +326,7 @@ d. 45 + 27 cos 2 qt V
 ![image](https://user-images.githubusercontent.com/85126275/131611126-fdccb86f-2c70-4bcf-b453-72d02585c50e.png)
 
 
-57. Determine los valores de la raíz cuadrática media para
+***57. Determine los valores de la raíz cuadrática media para***
 
 a. i = 3 + 2(4) sen(qt + 44°) mA
 
@@ -338,7 +338,7 @@ b. Voltaje v de la figura 15-92 con e = 25 sen qt V
 
 ![image](https://user-images.githubusercontent.com/85126275/131611638-5026483b-8340-4d11-b762-c5e3e44ba8b0.png)
 
-59. Calcule los valores rms para las formas de onda de la figura 15-92.
+***59. Calcule los valores rms para las formas de onda de la figura 15-92.***
 
 ![image](https://user-images.githubusercontent.com/85126275/131612004-44f7f52d-1613-4a35-a75e-36eb4317daa1.png)
 
@@ -349,7 +349,7 @@ b. Voltaje v de la figura 15-92 con e = 25 sen qt V
 ![image](https://user-images.githubusercontent.com/85126275/131613161-0a4a0663-ac0f-43ee-9c74-7661859867fe.png)
 
 
-61. Determine los valores rms para la forma de onda de la figura 15-94. ¿Por quées igual que el de una batería de 24 V?
+***61. Determine los valores rms para la forma de onda de la figura 15-94. ¿Por quées igual que el de una batería de 24 V?***
 
 ![image](https://user-images.githubusercontent.com/85126275/131613350-779549af-fee2-4500-94e3-6ae591d22194.png)
 
@@ -357,7 +357,7 @@ b. Voltaje v de la figura 15-92 con e = 25 sen qt V
 
 ![image](https://user-images.githubusercontent.com/85126275/131613378-94f344f9-f354-44a8-9942-94e1734e3d98.png)
 
-63. Repita el problema 62, use cálculo para manejar la porción triangular.
+***63. Repita el problema 62, use cálculo para manejar la porción triangular.***
 
 ![image](https://user-images.githubusercontent.com/85126275/131613738-7a5993c8-a738-4d93-b55a-ec76173fc579.png)
 
@@ -372,7 +372,7 @@ b. Voltaje v de la figura 15-92 con e = 25 sen qt V
 **15-11 Medición de voltaje y corriente de ca**
 
 
-65. Repita el problema 64 con un medidor de rms verdadero.
+***65. Repita el problema 64 con un medidor de rms verdadero.***
 
 a)
 
@@ -392,13 +392,13 @@ d)
 
 ![image](https://user-images.githubusercontent.com/85126275/131614258-53d975ef-6f93-4d5f-909d-6e4c2312e902.png)
 
-  # IV. Conceptos fundamentales de ca.-
+# IV. Conceptos fundamentales de ca.-
   
-   * CAP 16: Elementos R, L, C y el concepto de impedancia 
+ * CAP 16: Elementos R, L, C y el concepto de impedancia 
    
    ** 16 - 1 : Repaso de numeros complejos **
       
-   1. Convierta cada uno de los siguientes números a forma polar:
+   ***1. Convierta cada uno de los siguientes números a forma polar:***
 
    a. 5 + j12 
 
@@ -416,37 +416,8 @@ d)
 
    ![image](https://user-images.githubusercontent.com/85126275/131684488-66a755d6-9f69-4e6f-bf1a-c068bb82067b.png)
 
-   2. Convierta cada uno de los siguientes números a forma rectangular:
 
-   a. 6∠30° 
-
-   ![image](https://user-images.githubusercontent.com/85126275/131685584-936ad991-6821-4b57-9bd6-649bfafd945b.png)
-
-   b. 14∠90° 
-
-   ![image](https://user-images.githubusercontent.com/85126275/131685646-ebc9f73b-98e3-480c-8c9a-c95f9183e40d.png)
-
-   c. 16∠0° 
-
-   ![image](https://user-images.githubusercontent.com/85126275/131685687-baab6d17-d545-46f2-94c2-2f542bbdc325.png)
-
-   d. 6∠150°
-
-   ![image](https://user-images.githubusercontent.com/85126275/131685735-08d3cb1b-f3f7-48a6-85b4-357d0b0ce37c.png)
-
-   e. 20∠-140°
-
-   ![image](https://user-images.githubusercontent.com/85126275/131685778-9dc30405-9ead-4391-b970-b68f42078214.png)
-
-   f. -12∠30°
-
-   ![image](https://user-images.githubusercontent.com/85126275/131685822-5c0ac5d4-3f01-40a7-a88f-5658d695d83c.png)
-
-   g. -15∠-150°
-
-   ![image](https://user-images.githubusercontent.com/85126275/131685867-9bf1fc95-dc6e-4cc0-9b36-1b9978b919eb.png)
-
-   3. Grafique cada uno de los siguientes valores en el plano complejo:
+   ***3. Grafique cada uno de los siguientes valores en el plano complejo:***
 
    a. 4 < j6 
 
@@ -464,29 +435,8 @@ d)
 
    ![image](https://user-images.githubusercontent.com/85126275/131736516-b675aba8-915a-4944-b029-29285e7f2c03.png)
 
-   4. Simplifique lo siguiente usando potencias de j:
 
-   a. j(1 - j1) 
-
-   ![image](https://user-images.githubusercontent.com/85126275/131736961-4a995442-b887-4187-9054-6ac775e8847f.png)
-
-   b. (-j)(2 + j5) 
-
-   ![image](https://user-images.githubusercontent.com/85126275/131737004-eb20390c-7ce6-4ed3-81de-3c0467f2abad.png)
-
-   c. j [ j (1 + j6) ]
-
-   ![image](https://user-images.githubusercontent.com/85126275/131737070-f1c52ee5-54b9-48e0-b35f-36dd18cf8f5b.png)
-
-   d. ( j4)(-j2 + 4)
-
-   ![image](https://user-images.githubusercontent.com/85126275/131737106-dfc70fc1-50a7-40e0-b6e8-739aabb694f0.png)
-
-   e. (2 + j3)(3 - j4)
-
-   ![image](https://user-images.githubusercontent.com/85126275/131737145-7b740872-3a27-4138-a691-8428dd195a07.png)
-
-   5. Exprese sus respuestas en forma rectangular.
+   ***5. Exprese sus respuestas en forma rectangular.***
 
    a. (4 + j8) + (3 - j2)
 
@@ -502,35 +452,19 @@ d)
 
    d. 2.9∠25° - 7.3 < -5°
 
-    ![image](https://user-images.githubusercontent.com/85126275/131738771-06934be2-d618-4f03-8bb0-179e21016beb.png)
+   ![image](https://user-images.githubusercontent.com/85126275/131738771-06934be2-d618-4f03-8bb0-179e21016beb.png)
 
    e. 9.2 < -120° - (2.6 + j4.1)
 
    ![image](https://user-images.githubusercontent.com/85126275/131738881-4822c2c6-76eb-4414-8d5b-e532e6cf9ebf.png)
 
-   f. ![image](https://user-images.githubusercontent.com/85126275/131738452-f95ff498-59ca-40e8-8e59-275c3022b9f1.png)
+   f. 
+   
+   ![image](https://user-images.githubusercontent.com/85126275/131738452-f95ff498-59ca-40e8-8e59-275c3022b9f1.png)
 
-    ![image](https://user-images.githubusercontent.com/85126275/131738944-64c2b05d-5afe-43a0-bbde-12d6c92e23d1.png)
+   ![image](https://user-images.githubusercontent.com/85126275/131738944-64c2b05d-5afe-43a0-bbde-12d6c92e23d1.png)
 
-   6. Exprese sus respuestas en forma polar.
-
-   a. (37 + j9.8)(3.6 - j12.3)
-
-   ![image](https://user-images.githubusercontent.com/85126275/131752155-5c9719a2-4b9e-4bc0-a4b5-05390351fb12.png)
-
-   ![image](https://user-images.githubusercontent.com/85126275/131752180-fcf8f77d-77c0-47df-9913-8c5c1bd51144.png)
-
-   b. (41.9 <-80°)(16 + j2)
-
-   ![image](https://user-images.githubusercontent.com/85126275/131752241-81c17278-3db7-49ca-ae8d-9acf6119b236.png)
-
-   ![image](https://user-images.githubusercontent.com/85126275/131752263-026e1a8c-0ae2-4d5d-a812-5e83bf0cf8d6.png)
-
-   ![image](https://user-images.githubusercontent.com/85126275/131752365-c70275c1-f336-4082-a36d-06ad8b0b393e.png)
-
-   ![image](https://user-images.githubusercontent.com/85126275/131752427-71e00221-d12d-481e-933a-db7041f1516b.png)
-
-   7. Reduzca cada corriente siguiente a forma polar:
+   ***7. Reduzca cada corriente siguiente a forma polar:***
 
    ![image](https://user-images.githubusercontent.com/85126275/131756446-86831f22-feed-420c-bef9-e762f663dfac.png)
 
@@ -548,33 +482,7 @@ d)
 
    **16-2 Números complejos en análisis de ca**
 
-   8. A la manera de la figura 16-10, represente cada uno de los siguientes casos como fuentes transformadas.
-
-   a. e = 100 sen (qt + 30°) V 
-
-   ![image](https://user-images.githubusercontent.com/85126275/131912180-a7a87f2a-945f-4f30-b22a-f4b1860d25ad.png)
-
-   b. e = 15 sen (qt - 20°) V 
-
-   ![image](https://user-images.githubusercontent.com/85126275/131912202-8f48e7c9-ae58-4d81-be96-4d5c30539e86.png)
-
-   c. e = 50 sen (qt + 90°) V 
-
-   ![image](https://user-images.githubusercontent.com/85126275/131912220-b962a8d4-1b50-4659-b1f5-313e4d932dd8.png)
-
-   d. e = 50 cos qt V
-
-   ![image](https://user-images.githubusercontent.com/85126275/131912249-d4087a09-a92b-4405-b714-ae5525d7fc61.png)
-
-   e. e = 40 sen (qt + 120°) V
-
-   ![image](https://user-images.githubusercontent.com/85126275/131912283-b4c4bcb5-851b-4aff-86f8-8ebfc0bb766b.png)
-
-   f. e = 80 sen (qt - 70°) V
-
-   ![image](https://user-images.githubusercontent.com/85126275/131912303-eeed84a8-ae88-4f6f-82d6-45a85a28e55e.png)
-
-   9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16-48.
+   ***9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16-48.***
 
    a) 
 
