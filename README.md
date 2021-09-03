@@ -84,7 +84,54 @@
        --------------------------
        ------------------------
        -----------------------
-   
+       
+***27. Calcule ω en radianes por segundo para cada uno de los siguientes casos:***
+
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Im%C3%A1genes/27.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   # IV. Conceptos fundamentales de ca.-
   
    * CAP 16: Elementos R, L, C y el concepto de impedancia 
