@@ -17,7 +17,7 @@
  
   #### OBJETIVOS ESPECÍFICOS
 
-* Aplicar los conocimientos aprendidos en clase sobre las funciones senosoidales de la corriente y el voltaje para poder aplicarlas en la resolución de ejercicios.
+* Aplicar los conocimientos aprendidos en clase sobre las funciones sinusoidales de la corriente y el voltaje para poder aplicarlas en la resolución de ejercicios.
 
 * ----------------------------------
 
