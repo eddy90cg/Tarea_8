@@ -17,7 +17,7 @@
  
   #### OBJETIVOS ESPECÍFICOS
 
-* ----------------------------------
+* Aplicar los conocimientos aprendidos en clase sobre las funciones senosoidales de la corriente y el voltaje para poder aplicarlas en la resolución de ejercicios.
 
 * ----------------------------------
 
@@ -397,7 +397,7 @@ f. <img src="https://latex.codecogs.com/svg.latex?620^{\circ}" title="620^{\circ
   
  # 5. CONCLUSIONES
  
-* ----------------------------------
+* Se pudieron aplicar las fórmulas y conocimientos aprendidos en clase mediante la resolución de los ejercicios propuestos.
 
 * ----------------------------------
 
@@ -412,10 +412,7 @@ f. <img src="https://latex.codecogs.com/svg.latex?620^{\circ}" title="620^{\circ
 
 * Recuperado de: https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
 
-* -------------------------------------------------
-
-* --------------------------------------------------
-
+* Circuitos Eléctricos y Aplicaciones Digitales, Villaseñor Jorge, Segunda Edición
 
 RUBRICA
 
