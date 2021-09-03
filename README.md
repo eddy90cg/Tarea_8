@@ -31,7 +31,7 @@
 
   ## Fundamentos de ca
 
-    ![]()
+![](https://github.com/eddy90cg/Tarea_8/blob/main/Imágenes/Mentefacto-Capítulo%2015.png)
     
 # IV. Conceptos fundamentales de ca.-
 
